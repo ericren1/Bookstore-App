@@ -1,0 +1,14 @@
+BOOK 1
+10.0
+BOOK 1
+10.0
+BOOK 1
+10.0
+book
+100.0
+book
+15.0
+book 5
+22.0
+book 1
+1.0
